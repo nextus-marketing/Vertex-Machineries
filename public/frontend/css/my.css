@@ -1,0 +1,64 @@
+@media only screen and (max-width: 1440px) {
+    .testimonial-item {
+        min-height: 170px;
+        padding: 30px;
+    }
+}
+
+#scrollTopBtn {
+    display: none;
+    /* Hidden by default */
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    z-index: 100;
+    font-size: 24px;
+    background-color: #FED403;
+    /* change to your accent color */
+    color: white;
+    padding: 16px 16px;
+    border-radius: 50%;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s;
+}
+
+#scrollTopBtn:hover {
+    background-color: #ddb904ff;
+    transform: translateY(-3px);
+}
+
+.float-contact {
+    position: fixed;
+    bottom: 40px;
+    /* adjust distance from bottom */
+    left: 40px;
+    /* distance from right */
+    z-index: 1000;
+    width: 60px;
+    height: 60px;
+    background-color: #FED403;
+    /* change to your accent color */
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    cursor: pointer;
+    transition: transform 0.3s, background-color 0.3s;
+}
+
+.float-contact img {
+    width: 30px;
+    /* icon size */
+    height: 30px;
+}
+
+.float-contact:hover {
+    background-color: #FED403;
+    transform: translateY(-3px);
+}
+
+.color {
+    color: #FED403;
+}
