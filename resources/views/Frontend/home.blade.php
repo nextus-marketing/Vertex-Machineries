@@ -379,7 +379,7 @@
                     <div class="service-benefit-box wow fadeInUp" data-wow-delay="0.4s">
                         <!-- Section Footer Text Start -->
                         <div class="section-footer-text">
-                            <p><span>Free</span>Let's make something great work together. <a href="#0">Get Free Quote</a></p>
+                            <p>Let's make something great work together. <span><a href="#0">Get Free Quote</a></span></p>
                         </div>
                         <!-- Section Footer Text End -->
                     </div>

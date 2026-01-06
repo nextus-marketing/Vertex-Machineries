@@ -62,3 +62,12 @@
 .color {
     color: #FED403;
 }
+
+p span a {
+    color: #000 !important;
+    text-decoration: none !important;
+}
+
+p span a:hover {
+    text-decoration: underline !important;
+}
