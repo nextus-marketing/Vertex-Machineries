@@ -76,3 +76,10 @@ p span a:hover {
     align-items: center;
     padding: 3px 0;
 }
+
+.our-services {
+    background: var(--secondary-color) url(../images/service-bg-shape.png) no-repeat;
+    background-position: top right;
+    background-size: auto;
+    padding: 60px 0;
+}

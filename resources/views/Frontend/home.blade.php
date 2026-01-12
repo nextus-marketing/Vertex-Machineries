@@ -379,7 +379,7 @@
                     <div class="service-benefit-box wow fadeInUp" data-wow-delay="0.4s">
                         <!-- Section Footer Text Start -->
                         <div class="section-footer-text">
-                            <p>Let's make something great work together. <span><a href="#0">Get Free Quote</a></span></p>
+                            <p>Let's make something great work together. </br><span><a href="#0">Get Free Quote</a></span></p>
                         </div>
                         <!-- Section Footer Text End -->
                     </div>
@@ -542,37 +542,6 @@
                         </div>
                     </div>
                     <!-- Feature Item End -->
-                </div>
-
-                <div class="col-lg-12 order-5">
-                    <!-- Section Footer Text Start -->
-                    <div class="section-footer-text section-satisfy-img wow fadeInUp" data-wow-delay="0.6s">
-                        <!-- Satisfy Client Images Start -->
-                        <div class="satisfy-client-images">
-                            <div class="satisfy-client-image">
-                                <figure class="image-anime">
-                                    <img src="/frontend/images/author-1.jpg" alt="">
-                                </figure>
-                            </div>
-                            <div class="satisfy-client-image add-more">
-                                <img src="/frontend/images/icon-phone-primary.svg" alt="">
-                            </div>
-                        </div>
-                        <!-- Satisfy Client Images End -->
-                        <p>From vision to structure - <a href="#0">where creativity meets construction excellence.</a></p>
-                        <ul>
-                            <li><span class="counter">4.9</span>/5</li>
-                            <li>
-                                <i class="fa-solid fa-star"></i>
-                                <i class="fa-solid fa-star"></i>
-                                <i class="fa-solid fa-star"></i>
-                                <i class="fa-solid fa-star"></i>
-                                <i class="fa-solid fa-star"></i>
-                            </li>
-                            <li>Our 4200 Review</li>
-                        </ul>
-                    </div>
-                    <!-- Section Footer Text End -->
                 </div>
             </div>
         </div>
@@ -737,12 +706,8 @@
                         <!-- Testimonial Slider End -->
     
                         <!-- Section Footer Text Start -->
-                        <div class="section-footer-text section-footer-contact wow fadeInUp" data-wow-delay="0.2s">   
-                            <p>
-                                <span><img src="/frontend/images/icon-phone-primary.svg" alt=""></span>
-                                Power your projects with reliable machinery –
-                                <a href="#0">request a quote today</a>
-                            </p>
+                       <div class="section-footer-text">
+                            <p>Power your projects with reliable machinery </br><span><a href="#0">request a quote today</a></span></p>
                         </div>
                         <!-- Section Footer Text End -->
                     </div>
@@ -751,7 +716,5 @@
             </div>
         </div>
     </div>
-    <!-- Our Testimonial Section End -->
-
-
+   
 @endsection
