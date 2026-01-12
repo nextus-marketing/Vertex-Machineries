@@ -11,7 +11,7 @@
     <meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"> 
 	
 	<!-- Favicon Icon -->
-	<link rel="shortcut icon" type="image/x-icon" href="/frontend/images/favicon.png">
+	<link rel="shortcut icon" type="image/x-icon" href="/frontend/my-img/favicon.png">
 	<!-- Google Fonts Css-->
 	<link rel="preconnect" href="https://fonts.googleapis.com/">
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
