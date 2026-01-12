@@ -56,7 +56,7 @@
 				<div class="container">
 					<!-- Logo Start -->
 					<a class="navbar-brand" href="/">
-						<img src="/frontend/images/logo.svg" alt="Logo">
+						<img src="/frontend/my-img/new-logo.png" alt="Logo" style="width:192px; height:80px;">
 					</a>
 					<!-- Logo End -->
 
@@ -104,7 +104,7 @@
                     <div class="about-footer-gold">
                         <!-- Footer Logo Start -->
                         <div class="footer-logo-gold">
-                            <img src="/frontend/images/logo.svg" alt="">
+                            <img src="/frontend/my-img/new-logo.png" alt="Logo" style="width:192px; height:80px;">
                         </div>
                         <!-- Footer Logo End -->
     

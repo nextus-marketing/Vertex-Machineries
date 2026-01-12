@@ -71,3 +71,8 @@ p span a {
 p span a:hover {
     text-decoration: underline !important;
 }
+
+.navbar {
+    align-items: center;
+    padding: 3px 0;
+}
