@@ -84,10 +84,27 @@ p span a:hover {
     padding: 60px 0;
 }
 
+.pricing-item-header {
+    width: 100%;
+    overflow: hidden;
+    border-radius: 12px;
+}
+
 .pricing-item-header img {
-    width: 323px;
+    width: 100%;
     height: 242px;
     object-fit: cover;
-    /* fills area without distortion */
     display: block;
+}
+
+@media (max-width: 767px) {
+    .pricing-item-header img {
+        height: auto;
+        /* let image scale naturally */
+        max-height: 270px;
+        /* optional: keeps cards uniform */
+        object-fit: contain;
+        /* prevents cropping on mobile */
+        border-radius: 10px;
+    }
 }

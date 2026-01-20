@@ -718,7 +718,7 @@
     </div>
 
 
-    <div class="our-pricing dark-section parallaxie">
+<div class="our-pricing dark-section parallaxie">
     <div class="container">
         <div class="row section-row">
             <div class="col-lg-12">
