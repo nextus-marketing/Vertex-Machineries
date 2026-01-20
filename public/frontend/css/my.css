@@ -83,3 +83,11 @@ p span a:hover {
     background-size: auto;
     padding: 60px 0;
 }
+
+.pricing-item-header img {
+    width: 323px;
+    height: 242px;
+    object-fit: cover;
+    /* fills area without distortion */
+    display: block;
+}
