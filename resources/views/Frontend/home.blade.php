@@ -521,21 +521,16 @@
                         <h3 style="color:#fff; margin-bottom:12px;">JCB Machine</h3>
 
                         <div style="display:flex; gap:10px; flex-wrap:wrap; margin-bottom:18px;">
-
                             <span style="display:flex; align-items:center; gap:6px; padding:6px 12px; background:#1f1f1f; border-radius:20px; color:#ddd; font-size:13px;">
                                 <i class="fa-solid fa-gas-pump" style="color:#ffcc00;"></i> Diesel
                             </span>
-
                             <span style="display:flex; align-items:center; gap:6px; padding:6px 12px; background:#1f1f1f; border-radius:20px; color:#ddd; font-size:13px;">
                                 <i class="fa-solid fa-rotate" style="color:#ffcc00;"></i> Used
                             </span>
-
                             <span style="display:flex; align-items:center; gap:6px; padding:6px 12px; background:#1f1f1f; border-radius:20px; color:#ddd; font-size:13px;">
                                 <i class="fa-solid fa-calendar" style="color:#ffcc00;"></i> 2019
                             </span>
-
                         </div>
-
                         <div class="pricing-item-btn">
                             <a href="#0" class="btn-default btn-highlighted">Get Started With Plan</a>
                         </div>
