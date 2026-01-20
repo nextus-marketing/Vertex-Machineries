@@ -461,6 +461,124 @@
         </div>
     </div>
     <!-- What We Do Setion End -->
+
+    <div class="our-pricing dark-section parallaxie">
+    <div class="container">
+        <div class="row section-row">
+            <div class="col-lg-12">
+                <div class="section-title section-title-center">
+                    <h3 class="wow fadeInUp">Our Pricing Plans</h3>
+                    <h2 class="text-anime-style-3" data-cursor="-opaque">
+                        Equipment Solutions That Fit Your Budget
+                    </h2>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+
+            <!-- CARD 1 -->
+            <div class="col-xl-4 col-md-6">
+                <div class="pricing-item wow fadeInUp">
+                    <div class="pricing-item-header">
+                        <img src="/frontend/my-img/desi-machines-ace-16xw-featured.webp" alt="">
+                    </div>
+
+                    <div class="pricing-item-body">
+                        <h3 style="color:#fff; margin-bottom:12px;">Pick & Carry Crane</h3>
+
+                        <div style="display:flex; gap:10px; flex-wrap:wrap; margin-bottom:18px;">
+
+                            <span style="display:flex; align-items:center; gap:6px; padding:6px 12px; background:#1f1f1f; border-radius:20px; color:#ddd; font-size:13px;">
+                                <i class="fa-solid fa-gas-pump" style="color:#ffcc00;"></i> Diesel
+                            </span>
+
+                            <span style="display:flex; align-items:center; gap:6px; padding:6px 12px; background:#1f1f1f; border-radius:20px; color:#ddd; font-size:13px;">
+                                <i class="fa-solid fa-rotate" style="color:#ffcc00;"></i> Used
+                            </span>
+
+                            <span style="display:flex; align-items:center; gap:6px; padding:6px 12px; background:#1f1f1f; border-radius:20px; color:#ddd; font-size:13px;">
+                                <i class="fa-solid fa-calendar" style="color:#ffcc00;"></i> 2018
+                            </span>
+
+                        </div>
+
+                        <div class="pricing-item-btn">
+                            <a href="#0" class="btn-default btn-highlighted">Get Started With Plan</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- CARD 2 -->
+            <div class="col-xl-4 col-md-6">
+                <div class="pricing-item highlighted-box wow fadeInUp" data-wow-delay="0.2s">
+                    <div class="pricing-item-header">
+                        <img src="/frontend/my-img/jcb-machine.jpg" alt="">
+                    </div>
+
+                    <div class="pricing-item-body">
+                        <h3 style="color:#fff; margin-bottom:12px;">JCB Machine</h3>
+
+                        <div style="display:flex; gap:10px; flex-wrap:wrap; margin-bottom:18px;">
+
+                            <span style="display:flex; align-items:center; gap:6px; padding:6px 12px; background:#1f1f1f; border-radius:20px; color:#ddd; font-size:13px;">
+                                <i class="fa-solid fa-gas-pump" style="color:#ffcc00;"></i> Diesel
+                            </span>
+
+                            <span style="display:flex; align-items:center; gap:6px; padding:6px 12px; background:#1f1f1f; border-radius:20px; color:#ddd; font-size:13px;">
+                                <i class="fa-solid fa-rotate" style="color:#ffcc00;"></i> Used
+                            </span>
+
+                            <span style="display:flex; align-items:center; gap:6px; padding:6px 12px; background:#1f1f1f; border-radius:20px; color:#ddd; font-size:13px;">
+                                <i class="fa-solid fa-calendar" style="color:#ffcc00;"></i> 2019
+                            </span>
+
+                        </div>
+
+                        <div class="pricing-item-btn">
+                            <a href="#0" class="btn-default btn-highlighted">Get Started With Plan</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- CARD 3 -->
+            <div class="col-xl-4 col-md-6">
+                <div class="pricing-item wow fadeInUp" data-wow-delay="0.4s">
+                    <div class="pricing-item-header">
+                        <img src="/frontend/my-img/crane.png" alt="">
+                    </div>
+
+                    <div class="pricing-item-body">
+                        <h3 style="color:#fff; margin-bottom:12px;">Hydraulic Crane</h3>
+
+                        <div style="display:flex; gap:10px; flex-wrap:wrap; margin-bottom:18px;">
+
+                            <span style="display:flex; align-items:center; gap:6px; padding:6px 12px; background:#1f1f1f; border-radius:20px; color:#ddd; font-size:13px;">
+                                <i class="fa-solid fa-gas-pump" style="color:#ffcc00;"></i> Diesel
+                            </span>
+
+                            <span style="display:flex; align-items:center; gap:6px; padding:6px 12px; background:#1f1f1f; border-radius:20px; color:#ddd; font-size:13px;">
+                                <i class="fa-solid fa-rotate" style="color:#ffcc00;"></i> Used
+                            </span>
+
+                            <span style="display:flex; align-items:center; gap:6px; padding:6px 12px; background:#1f1f1f; border-radius:20px; color:#ddd; font-size:13px;">
+                                <i class="fa-solid fa-calendar" style="color:#ffcc00;"></i> 2020
+                            </span>
+
+                        </div>
+
+                        <div class="pricing-item-btn">
+                            <a href="#0" class="btn-default btn-highlighted">Get Started With Plan</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
      
     <!-- Our Features Section Start -->
     <div class="our-features">
@@ -717,125 +835,4 @@
         </div>
     </div>
 
-
-<div class="our-pricing dark-section parallaxie">
-    <div class="container">
-        <div class="row section-row">
-            <div class="col-lg-12">
-                <div class="section-title section-title-center">
-                    <h3 class="wow fadeInUp">Our Pricing Plans</h3>
-                    <h2 class="text-anime-style-3" data-cursor="-opaque">
-                        Tailored architectural and construction solutions for every budget
-                    </h2>
-                </div>
-            </div>
-        </div>
-
-        <div class="row">
-
-            <!-- CARD 1 -->
-            <div class="col-xl-4 col-md-6">
-                <div class="pricing-item wow fadeInUp">
-                    <div class="pricing-item-header">
-                        <img src="/frontend/my-img/desi-machines-ace-16xw-featured.webp" alt="">
-                    </div>
-
-                    <div class="pricing-item-body">
-                        <h3 style="color:#fff; margin-bottom:12px;">Pick & Carry Crane</h3>
-
-                        <div style="display:flex; gap:10px; flex-wrap:wrap; margin-bottom:18px;">
-
-                            <span style="display:flex; align-items:center; gap:6px; padding:6px 12px; background:#1f1f1f; border-radius:20px; color:#ddd; font-size:13px;">
-                                <i class="fa-solid fa-gas-pump" style="color:#ffcc00;"></i> Diesel
-                            </span>
-
-                            <span style="display:flex; align-items:center; gap:6px; padding:6px 12px; background:#1f1f1f; border-radius:20px; color:#ddd; font-size:13px;">
-                                <i class="fa-solid fa-rotate" style="color:#ffcc00;"></i> Used
-                            </span>
-
-                            <span style="display:flex; align-items:center; gap:6px; padding:6px 12px; background:#1f1f1f; border-radius:20px; color:#ddd; font-size:13px;">
-                                <i class="fa-solid fa-calendar" style="color:#ffcc00;"></i> 2018
-                            </span>
-
-                        </div>
-
-                        <div class="pricing-item-btn">
-                            <a href="#0" class="btn-default btn-highlighted">Get Started With Plan</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- CARD 2 -->
-            <div class="col-xl-4 col-md-6">
-                <div class="pricing-item highlighted-box wow fadeInUp" data-wow-delay="0.2s">
-                    <div class="pricing-item-header">
-                        <img src="/frontend/my-img/jcb-machine.jpg" alt="">
-                    </div>
-
-                    <div class="pricing-item-body">
-                        <h3 style="color:#fff; margin-bottom:12px;">JCB Machine</h3>
-
-                        <div style="display:flex; gap:10px; flex-wrap:wrap; margin-bottom:18px;">
-
-                            <span style="display:flex; align-items:center; gap:6px; padding:6px 12px; background:#1f1f1f; border-radius:20px; color:#ddd; font-size:13px;">
-                                <i class="fa-solid fa-gas-pump" style="color:#ffcc00;"></i> Diesel
-                            </span>
-
-                            <span style="display:flex; align-items:center; gap:6px; padding:6px 12px; background:#1f1f1f; border-radius:20px; color:#ddd; font-size:13px;">
-                                <i class="fa-solid fa-rotate" style="color:#ffcc00;"></i> Used
-                            </span>
-
-                            <span style="display:flex; align-items:center; gap:6px; padding:6px 12px; background:#1f1f1f; border-radius:20px; color:#ddd; font-size:13px;">
-                                <i class="fa-solid fa-calendar" style="color:#ffcc00;"></i> 2019
-                            </span>
-
-                        </div>
-
-                        <div class="pricing-item-btn">
-                            <a href="#0" class="btn-default btn-highlighted">Get Started With Plan</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- CARD 3 -->
-            <div class="col-xl-4 col-md-6">
-                <div class="pricing-item wow fadeInUp" data-wow-delay="0.4s">
-                    <div class="pricing-item-header">
-                        <img src="/frontend/my-img/crane.png" alt="">
-                    </div>
-
-                    <div class="pricing-item-body">
-                        <h3 style="color:#fff; margin-bottom:12px;">Hydraulic Crane</h3>
-
-                        <div style="display:flex; gap:10px; flex-wrap:wrap; margin-bottom:18px;">
-
-                            <span style="display:flex; align-items:center; gap:6px; padding:6px 12px; background:#1f1f1f; border-radius:20px; color:#ddd; font-size:13px;">
-                                <i class="fa-solid fa-gas-pump" style="color:#ffcc00;"></i> Diesel
-                            </span>
-
-                            <span style="display:flex; align-items:center; gap:6px; padding:6px 12px; background:#1f1f1f; border-radius:20px; color:#ddd; font-size:13px;">
-                                <i class="fa-solid fa-rotate" style="color:#ffcc00;"></i> Used
-                            </span>
-
-                            <span style="display:flex; align-items:center; gap:6px; padding:6px 12px; background:#1f1f1f; border-radius:20px; color:#ddd; font-size:13px;">
-                                <i class="fa-solid fa-calendar" style="color:#ffcc00;"></i> 2020
-                            </span>
-
-                        </div>
-
-                        <div class="pricing-item-btn">
-                            <a href="#0" class="btn-default btn-highlighted">Get Started With Plan</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
-    </div>
-</div>
-
-</br>
-   
 @endsection
