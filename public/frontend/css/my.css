@@ -78,7 +78,7 @@ p span a:hover {
 }
 
 .our-services {
-    background: var(--secondary-color) url(../images/service-bg-shape.png) no-repeat;
+    background: var(--secondary-color) url(/frontend/images/service-bg-shape.png) no-repeat;
     background-position: top right;
     background-size: auto;
     padding: 60px 0;
