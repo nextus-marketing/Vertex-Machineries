@@ -476,31 +476,24 @@
         </div>
 
         <div class="row">
-
             <!-- CARD 1 -->
             <div class="col-xl-4 col-md-6">
                 <div class="pricing-item wow fadeInUp">
                     <div class="pricing-item-header">
                         <img src="/frontend/my-img/desi-machines-ace-16xw-featured.webp" alt="">
                     </div>
-
                     <div class="pricing-item-body">
                         <h3 style="color:#fff; margin-bottom:12px;">Pick & Carry Crane</h3>
-
                         <div style="display:flex; gap:10px; flex-wrap:wrap; margin-bottom:18px;">
-
                             <span style="display:flex; align-items:center; gap:6px; padding:6px 12px; background:#1f1f1f; border-radius:20px; color:#ddd; font-size:13px;">
                                 <i class="fa-solid fa-gas-pump" style="color:#ffcc00;"></i> Diesel
                             </span>
-
                             <span style="display:flex; align-items:center; gap:6px; padding:6px 12px; background:#1f1f1f; border-radius:20px; color:#ddd; font-size:13px;">
                                 <i class="fa-solid fa-rotate" style="color:#ffcc00;"></i> Used
                             </span>
-
                             <span style="display:flex; align-items:center; gap:6px; padding:6px 12px; background:#1f1f1f; border-radius:20px; color:#ddd; font-size:13px;">
                                 <i class="fa-solid fa-calendar" style="color:#ffcc00;"></i> 2018
                             </span>
-
                         </div>
 
                         <div class="pricing-item-btn">
@@ -516,10 +509,8 @@
                     <div class="pricing-item-header">
                         <img src="/frontend/my-img/jcb-machine.jpg" alt="">
                     </div>
-
                     <div class="pricing-item-body">
                         <h3 style="color:#fff; margin-bottom:12px;">JCB Machine</h3>
-
                         <div style="display:flex; gap:10px; flex-wrap:wrap; margin-bottom:18px;">
                             <span style="display:flex; align-items:center; gap:6px; padding:6px 12px; background:#1f1f1f; border-radius:20px; color:#ddd; font-size:13px;">
                                 <i class="fa-solid fa-gas-pump" style="color:#ffcc00;"></i> Diesel
@@ -544,33 +535,25 @@
                     <div class="pricing-item-header">
                         <img src="/frontend/my-img/crane.png" alt="">
                     </div>
-
                     <div class="pricing-item-body">
                         <h3 style="color:#fff; margin-bottom:12px;">Hydraulic Crane</h3>
-
                         <div style="display:flex; gap:10px; flex-wrap:wrap; margin-bottom:18px;">
-
                             <span style="display:flex; align-items:center; gap:6px; padding:6px 12px; background:#1f1f1f; border-radius:20px; color:#ddd; font-size:13px;">
                                 <i class="fa-solid fa-gas-pump" style="color:#ffcc00;"></i> Diesel
                             </span>
-
                             <span style="display:flex; align-items:center; gap:6px; padding:6px 12px; background:#1f1f1f; border-radius:20px; color:#ddd; font-size:13px;">
                                 <i class="fa-solid fa-rotate" style="color:#ffcc00;"></i> Used
                             </span>
-
                             <span style="display:flex; align-items:center; gap:6px; padding:6px 12px; background:#1f1f1f; border-radius:20px; color:#ddd; font-size:13px;">
                                 <i class="fa-solid fa-calendar" style="color:#ffcc00;"></i> 2020
                             </span>
-
                         </div>
-
                         <div class="pricing-item-btn">
                             <a href="#0" class="btn-default btn-highlighted">Get Started With Plan</a>
                         </div>
                     </div>
                 </div>
             </div>
-
         </div>
     </div>
 </div>
@@ -763,7 +746,6 @@
                                     <div class="swiper-slide">
                                         <!-- Testimonial Item Start -->
                                         <div class="testimonial-item">
-                                            
                                             <div class="testimonial-item-body">
                                                 <div class="testimonial-item-content">
                                                     <p>“The equipment quality and timely delivery exceeded our expectations. Their support team helped us choose the right machines for our projects.”</p>
@@ -781,7 +763,6 @@
                                     <div class="swiper-slide">
                                         <!-- Testimonial Item Start -->
                                         <div class="testimonial-item">
-                                            
                                             <div class="testimonial-item-body">
                                                 <div class="testimonial-item-content">
                                                     <p>“Reliable machinery, transparent pricing, and excellent after-sales support. Their team played a key role in completing our project on schedule.”</p>
@@ -799,7 +780,6 @@
                                     <div class="swiper-slide">
                                         <!-- Testimonial Item Start -->
                                         <div class="testimonial-item">
-                                            
                                             <div class="testimonial-item-body">
                                                 <div class="testimonial-item-content">
                                                     <p>“Professional service and dependable equipment. From inquiry to delivery, everything was handled efficiently and with great attention to detail.”</p>
@@ -819,7 +799,7 @@
                         <!-- Testimonial Slider End -->
     
                         <!-- Section Footer Text Start -->
-                       <div class="section-footer-text">
+                        <div class="section-footer-text">
                             <p>Power your projects with reliable machinery </br><span><a href="#0">request a quote today</a></span></p>
                         </div>
                         <!-- Section Footer Text End -->

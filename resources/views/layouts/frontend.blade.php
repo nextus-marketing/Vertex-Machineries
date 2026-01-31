@@ -32,7 +32,6 @@
 	<link rel="stylesheet" href="/frontend/css/mousecursor.css">
 	<!-- Main Custom Css -->
 	<link href="/frontend/css/custom.css" rel="stylesheet" media="screen">
-
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.2/css/all.min.css">
 
     <!-- my Css File -->
@@ -206,7 +205,7 @@
 
     <a href="tel:+919876543210" class="float-contact" title="Call Us">
     <img src="/frontend/images/icon-phone-primary.svg" alt="Call Us">
-</a>
+    </a>
 
     <a href="#" id="scrollTopBtn" title="Go to top">&#8679;</a>
 
