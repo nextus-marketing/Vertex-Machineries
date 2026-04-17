@@ -152,13 +152,13 @@
 
                             <ul class="contact-info">
                                 <li>
-                                    123 Industrial Area, Andheri East, Mumbai – 400093
+                                    Shop No.01, Reliable Pride, Ashoka Marg, Near Sacred Heart School, Nashik - 422006
                                 </li>
                                 <li>
                                     +91 98765 43210
                                 </li>
                                 <li>
-                                    info@yourcompany.com
+                                    <a href="mailto:info@vertexmachineries.com">info@vertexmachineries.com</a>
                                 </li>
                             </ul>
                         </div>
