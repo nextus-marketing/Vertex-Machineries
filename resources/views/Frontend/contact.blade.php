@@ -144,7 +144,7 @@
                 <div class="col-lg-12">
                     <!-- Google Map Start -->
                     <div class="google-map-iframe">
-                        <iframe src="<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d234.3537070034974!2d73.79386782646178!3d19.98082490411117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bddeb1fd02c53b3%3A0x87ece4f1378be6a7!2sReliable&#39;s%20Pride!5e0!3m2!1sen!2sin!4v1776463195810!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d234.3537070034974!2d73.79386782646178!3d19.98082490411117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bddeb1fd02c53b3%3A0x87ece4f1378be6a7!2sReliable&#39;s%20Pride!5e0!3m2!1sen!2sin!4v1776463363918!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
                     <!-- Google Map End -->
                 </div>
